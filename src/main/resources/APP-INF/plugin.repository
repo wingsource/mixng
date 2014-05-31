@@ -1,0 +1,15 @@
+#id,type,url,contenttype (optional)
+g1,gadget,http://localhost:8080/mixng/static/gadget/gadget1.xml
+g2,gadget,http://localhost:8080/mixng/static/gadget/gadget2.xml
+banner,gadget,http://localhost:8080/mixng/static/gadget/banner.xml
+xform,url,cp://APP-INF/mixng.xsl
+wingskin,link,/container-x/gadgets.css,css
+jquery,link,http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js,js
+jqueryui,link,http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js,js
+bootstrap,link,http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css,css
+bootstraptheme,link,http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css,css
+bootstrapjs,link,http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js,js
+angularjs,link,http://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js,js
+appjs,link,http://localhost:8080/mixng/static/web/js/app.js,js
+gadget1js,link,http://localhost:8080/mixng/static/web/js/gadget1.js,js
+bannerjs,link,http://localhost:8080/mixng/static/web/js/banner.js,js
